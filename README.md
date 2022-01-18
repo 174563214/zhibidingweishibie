@@ -1,0 +1,2 @@
+# zhibidingweishibie
+该课题为基于matlab的rnb面额识别系统。带有一个人机交互界面。可以识别各种金额的rnb可以实现找0功能。
